@@ -2,7 +2,7 @@
 
 Backgrounds
 1) To overcome the time delay of Heterotrophic Plate count (HPC)
-2) HPC only show us historical data in terms of microbially safe water  
+2) HPCs only show us historical data in terms of microbially safe water  
 3) Culture-independent methods are fast and reliable 
 4) However, culture-independent methods are not valid for water quality standards
 
