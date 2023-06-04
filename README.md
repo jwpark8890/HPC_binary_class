@@ -1,14 +1,13 @@
 # HPC exceedance binary classification
 
 Backgrounds
-1) To overcome the time delay of Heterotrophic Plate count (HPC)
-2) HPCs only show us historical data in terms of microbially safe water  
-3) Culture-independent methods are fast and reliable 
-4) However, culture-independent methods are not valid for water quality standards
+1) HPC has a main limitation such as time delay.
+2) Culture-independent methods are fast and sensitive, but not valid for standard compliance. 
+3) This model overcomes the time delay and culture dependence. 
 
 Model description
-1) Feedforward neural network
-2) Culture-independent data are used for the input variable
+1) Feed-forward neural network
+2) Culture-independent data are used for the input variables
 3) Supervised for binary classification of HPC exceedance (0, pass / 1, failure)
 4) Training/validation data ratio = 7:3
 5) Trained using consumer tap water samples, not valid for outlet water from treatment plants
